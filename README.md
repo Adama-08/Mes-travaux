@@ -141,8 +141,7 @@ J’aime transformer des données complexes en **insights exploitables** et dév
 ---
 
 ##  Contact  
--  Adamadf1996@gmail.com  
--  418-550-0623  
+-  Adamadf1996@gmail.com   
 - GitHub : https://github.com/tonusername  
 
 ---
