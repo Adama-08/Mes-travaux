@@ -13,7 +13,7 @@ Passionnée par la data, l’IA et les systèmes intelligents
 diplômée en science des données et l'intelligence d'affaire avec une forte base en **machine learning, deep learning et NLP**.  
 J’aime transformer des données complexes en **insights exploitables** et développer des **applications intelligentes** qui ont un impact réel.
 
- Objectif : devenir **DataA nalyst/Data Scientist **
+ Objectif : devenir **Data Analyst/Data Scientist **
    
 ##  Formation  
    
